@@ -1,0 +1,16 @@
+XJY-604,Hyundai Getz,O,0,45.00,R
+AJB-123,BMW mini,P,200,65.00,A
+WYN-482,Ford Fiesta,O,0,40,A
+BKV-943,Ford Ikon,P,150,60,R
+JMB-535,Ford Flex,O,0,50,A
+JRP-345,Jaguar,P,150,60.0,A
+RJF-341,Mercedes-Benz,P,200,35.00,A
+SGD-735,Lexus,P,250,20,R
+CGF-209,Ford Motor,O,0,45,R
+DIW-841,Daimler,O,0,30.0,A
+NSK-359,Cadillac,P,100,75.00,R
+WIW-543,Honda,O,0,35.0,R
+EFB-145,INFINITI,P,300,70,R
+JNE-629,Chevrolet,O,0,25.0,A
+EDM-632,Tesla,P,350,60.0,A
+NWH-004,Toyota,O,0,25,R
